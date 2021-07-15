@@ -1,0 +1,12 @@
+version: '3.3'
+
+services: 
+    pico:
+        build: .
+        restart: always
+        ports:
+            - 80:80
+        volumes:
+            - ./themes:/var/www/html/pico/themes
+            - ./config:/var/www/html/pico/config
+            - ./content:/var/www/html/pico/content
