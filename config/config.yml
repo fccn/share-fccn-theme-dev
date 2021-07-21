@@ -9,14 +9,6 @@ debug: true                            # Set this to true to enable Pico's debug
 timezone: ~                         # Your PHP installation might require you to manually specify a timezone
 locale: ~                           # Your PHP installation might require you to manually specify a locale to use
 lang: pt-PT                         # HTML language meta, for better SEO and accessibility
-entity:
-    url: https://www.fccn.pt/media/2021/02/header_logo.svg
-    width: 208
-    height: 37
-    name: Unidade para a Computação Cientifica Nacional
-    site: https://www.fccn.pt
-    email: suporte@fccn.pt
-show_both_logos: false               # If true shows the FCCN and entity logo on the header. If false, only shows the entity logo
 
 ##
 # Theme

@@ -1,12 +1,11 @@
 ---
 Title: Certificados
 Description: This is the contacts page
+Template: page-toc
 ---
 ## Serviço RCTS Certificados
 
 RCTS Certificados é o serviço que assegura o fornecimento de vários tipos de certificados digitais às entidades pertencentes à RCTS. Este serviço tem como objetivo promover a segurança, autenticidade, confidencialidade e integridade à informação enviada e recebida através da Internet. A Unidade de Computação Científica Nacional garante este serviço através do serviço TCS (Trusted Certificate Service), disponibilizado pela Associação GÉANT.
-
-![](tcs2.png)
 
 Ao abrigo do TCS a FCCN, como Entidade de Registo, pode autorizar a emissão, por parte da Sectigo, de certificados digitais confiáveis sem custos adicionais para as instituições de ensino e investigação ligadas à RCTS .
 

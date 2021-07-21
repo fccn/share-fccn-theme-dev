@@ -24,8 +24,12 @@ git clone https://github.com/picocms/pico-theme.git default
 
 ## Deploy
 
-To deploy you only need the theme folder.
+To deploy you only need the __themes__ folder.
 The name of the theme should be configured in the `config.yml`
 
-Clone the theme from github using
-`git clone https://github.com/fccn/fccn-share-theme... fccn-share-theme`
+Clone the theme from github:
+```bash
+git clone https://github.com/fccn/share-fccn-theme.git fccn-share-theme
+```
+
+And then override the `config.yml` __theme__ name to be `fccn-share-theme`
