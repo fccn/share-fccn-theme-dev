@@ -5,4 +5,5 @@ footer: # Entity footer information
   site: https://www.fccn.pt
   email: geral@fccn.pt
 darkmode: true # can be set to true or false, depending on the necessity
+area: security
 ---
